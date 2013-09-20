@@ -17,7 +17,10 @@
 - 下堂课讲解
 
 ###补充说明
-暂无说明
+- 关于在select中同时关闭两个channel的方法，这里提供了一种解决方案，可以参考：  
+  英文: [Curious Channels](http://dave.cheney.net/2013/04/30/curious-channels)  
+  中文: [绝妙的 channel](http://mikespook.com/2013/05/%E7%BF%BB%E8%AF%91%E7%BB%9D%E5%A6%99%E7%9A%84-channel/)  
+  [或者点击此处查看示例代码](https://gist.github.com/cuixin/6640196)  
 
 ###相关链接
 - [Concurrency Is Not Parallelism](http://vimeo.com/49718712) 【[PPT](http://concur.rspace.googlecode.com/hg/talk/concur.html#landing-slide)】
